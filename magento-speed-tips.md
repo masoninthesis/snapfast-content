@@ -1,10 +1,12 @@
 # 3 Shortcuts to Speeding Up Your Magento Store:
 
-**The bottom line is this:** there is no magic bullet for speeding up Magento. Each and every website is build differently with different types of products, themes, extensions, users and traffic levels. The competition is fierce and studies show your customers won't wait more than 2 seconds for your website to load. 
+**The bottom line is this–** 
+
+There is no magic bullet for speeding up Magento. Each and every website is build differently with different types of products, themes, extensions, users and traffic levels. The competition is fierce and studies show your customers won't wait more than 2 seconds for your website to load. 
 
 *The only way to beat the competition and satisfy your customers is to have a team of Magento experts in your corner. Let us keep Magento firing on all cylinders while you focus on your business.*
 
->There are many considerations to make sure Magento runs quickly, but **_here are just a few things to make sure you're doing right:_**
+There are many considerations to make sure Magento runs quickly, but **_here are just a few things to make sure you're doing right:_**
 
 1. **Use Redis as the cache-backend:** 
   * Saving the default Magento caches in Redis can provide a significant boost in site speed as well as improve the amount of traffic your server can handle! 
